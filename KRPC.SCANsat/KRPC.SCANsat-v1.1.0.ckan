@@ -1,0 +1,24 @@
+{
+  "spec_version": "v1.34",
+  "identifier": "KRPC.SCANsat",
+  "name": "kRPC.SCANsat",
+  "abstract": "kRPC service for SCANsat",
+  "author": "Jason Higgins",
+  "version": "1.1.0",
+  "ksp_version_min": "1.12.0",
+  "license": "unknown",
+  "download": "https://github.com/jasonteknet/KRPC.SCANsat/releases/download/v1.1.0/KRPC.SCANsat-v1.1.0.zip",
+  "download_hash": {
+    "sha256": "72fdb9286a096a0a46fd2ff89f22aa548286150dea943d266b8471d20c477367"
+  },
+  "depends": [
+    { "name": "kRPC" },
+    { "name": "SCANsat" }
+  ],
+  "install": [
+    {
+      "file": "GameData/kRPC/KRPC.SCANsat.dll",
+      "install_to": "GameData/kRPC"
+    }
+  ]
+}
