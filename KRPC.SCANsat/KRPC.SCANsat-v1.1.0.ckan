@@ -9,7 +9,7 @@
   "license": "unknown",
   "download": "https://github.com/jasonteknet/KRPC.SCANsat/releases/download/v1.1.0/KRPC.SCANsat-v1.1.0.zip",
   "download_hash": {
-    "sha256": "72fdb9286a096a0a46fd2ff89f22aa548286150dea943d266b8471d20c477367"
+    "sha256": "72FDB9286A096A0A46FD2FF89F22AA548286150DEA943D266B8471D20C477367"
   },
   "depends": [
     { "name": "kRPC" },
