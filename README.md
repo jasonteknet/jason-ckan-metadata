@@ -9,7 +9,6 @@ Store metadata as one `.ckan` file per version under a folder named for the CKAN
 Example:
 
 - `KRPC.SCANsat/KRPC.SCANsat-v0.3.1.ckan`
-- `MechJeb2/MechJeb2-v2.14.0-jason.1.ckan`
 
 ## Notes
 
