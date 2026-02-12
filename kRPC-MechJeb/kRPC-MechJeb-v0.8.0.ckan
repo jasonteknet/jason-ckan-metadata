@@ -1,0 +1,28 @@
+{
+  "spec_version": "v1.34",
+  "identifier": "kRPC-MechJeb",
+  "name": "KRPC MechJeb",
+  "abstract": "kRPC service for MechJeb2 (Kerbal Space Program)",
+  "author": "Jason Higgins",
+  "version": "v0.8.0",
+  "ksp_version": "1.12",
+  "license": "GPL-3.0",
+  "resources": {
+    "repository": "https://github.com/jasonteknet/KRPC.MechJeb",
+    "bugtracker": "https://github.com/jasonteknet/KRPC.MechJeb/issues"
+  },
+  "depends": [
+    { "name": "kRPC" },
+    { "name": "MechJeb2" }
+  ],
+  "install": [
+    {
+      "file": "GameData/kRPC/KRPC.MechJeb.dll",
+      "install_to": "GameData/kRPC"
+    }
+  ],
+  "download": "https://github.com/jasonteknet/KRPC.MechJeb/releases/download/v0.8.0/krpc-mechjeb-0.8.0.zip",
+  "download_hash": {
+    "sha256": "b543024c7017a0959b0a673eea39dd1452ae68481f81514b120f1ae5d5d735c6"
+  }
+}
